@@ -1,0 +1,38 @@
+{
+  "name": "vue3-cli-vuex",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "my"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^1.2.0",
+    "cordova-config": "^0.7.0",
+    "core-js": "^3.8.3",
+    "crypto-js": "^4.1.1",
+    "element-plus": "^2.2.33",
+    "identify": "^0.1.5",
+    "js-md5": "^0.7.3",
+    "md5": "^2.3.0",
+    "qs": "^6.11.0",
+    "rimraf": "^3.0.2",
+    "vant": "^4.0.11",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "unplugin-auto-import": "^0.15.1",
+    "unplugin-vue-components": "^0.24.0"
+  }
+}
